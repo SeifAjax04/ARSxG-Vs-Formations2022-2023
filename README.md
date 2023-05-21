@@ -9,4 +9,5 @@ To run this project, you'll need to have Python 3 and the following libraries in
     NumPy
     
 You can install these libraries using pip:
+
 pip install matplotlib numpy
