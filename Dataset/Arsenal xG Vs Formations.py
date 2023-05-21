@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# -- Sheet --
-
 #import packages
 import pandas as pd
 import matplotlib as mpl
