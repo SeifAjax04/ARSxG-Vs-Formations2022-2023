@@ -22,21 +22,9 @@ This project was created by @SeifAjax04. The data used in this project was obtai
 
 # Purpose and Goals 🎯
 
-1. **Data Visualization:** Create an engaging and easily understandable visualization that captures Al-Ahly Club's performance in different championships over a specific season.
+The goal of this project is to explore how Arsenal's xG varies against different formations, and to identify which formations they are most effective against. By visualizing this data, we can gain insights into the strengths and weaknesses of Arsenal's tactics, and potentially identify areas for improvement.
 
-2. **Informative Insights:** Offer viewers valuable insights into the team's strengths, weaknesses, and overall performance in a user-friendly format.
-
-3. **Accessibility:** Make the visualization accessible to a wide range of users, including football fans, analysts, and anyone interested in the team's achievements.
-
-4. **Contribution to Open Source:** Provide a practical example of using Python and Matplotlib to create visually appealing charts, contributing to the open-source community's knowledge base.
-
-5. **Learning Opportunity:** Serve as a learning resource for individuals interested in data visualization, helping them understand how to visualize data effectively using Python.
-
-6. **Customizability:** Design the codebase in a modular and organized way, enabling users to customize and adapt the visualization for their own projects.
-
-7. **Documentation:** Create clear and comprehensive documentation, including a well-structured `README.md` file, to guide users through running the code and understanding the project.
-
-By achieving these goals, the Al-Ahly Club Statistics Visualization project aims to deliver a valuable resource that informs and educates users about the team's performance while showcasing best practices in data visualization using Python.
+We hope that this project will be useful to Arsenal fans, data analysts, and anyone interested in sports analytics. We also welcome feedback and contributions from the community, as we believe that collaboration is key to advancing our understanding of sports data.
 
 Feel free to modify and expand upon these descriptions to accurately reflect the purpose and goals of your project. This will help users understand the significance of your visualization and what they can expect to gain from it.
 
